@@ -1,0 +1,192 @@
+#homeheader {
+    background-image: url(companylogo.png);
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 150%;
+    padding-top:5%;
+    padding-bottom: 5%;
+    background-size: auto;
+    margin: auto;
+    text-align: center;
+    font-size: 45px;
+    color: black;
+}
+#eventheader {
+    background-image: url(BusinessCard.png);
+    background-repeat: no-repeat;
+    background-position-x: 5%;
+    background-position-y: 55%;
+    padding-top:9%;
+    padding-bottom: 5%;
+    background-size: auto;
+    margin: auto;
+    text-align: center;
+    color: black;
+}
+#aboutheader {
+    background-image: url(companylogo.png);
+    background-repeat: no-repeat;
+    background-position-x: 65%;
+    background-position-y: 45%;
+    background-size: auto;
+    margin: auto;
+    text-align: center;
+    color: black;
+}
+#companyheader {
+    background-image: url(companylogo.png);
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-position-y: 150%;
+    background-size: auto;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+#mtgheader {
+    background-image: url(MTG\ Logo.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    background-position-x: 15%;
+    background-position-y: 75%;
+}
+#warhammerheader {
+    background-image: url(Warhammer\ Logo.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    background-position-x: 15%;
+    background-position-y: 75%;
+}
+#collectibleheader {
+    background-image: url(collectible\ logo.png);
+    background-repeat: no-repeat;
+    background-size: 9%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-position-x: 25%;
+    background-position-y: 75%;
+}
+#boardgameheader {
+    background-image: url(Board\ Game\ Logo2.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    background-position-x: 25%;
+    background-position-y: 75%;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+body {
+   background-color: gray; 
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+}
+nav {
+    font-size: 32px;
+    text-align: center;
+    padding-bottom: 25px;
+}   
+#saleimages {
+    padding-left: 50px;
+    margin: auto;
+    background-color: rebeccapurple;
+    font-size: 20px;
+    border: black solid 5px;
+}
+#productsaleimages {
+    text-align: center;
+    background-color: rebeccapurple;
+    font-size: 20px;
+    margin-right: 25%;
+    margin-left: 25%;
+    border: black solid 5px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 10px;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+#storeimages {
+ padding-top: 25px;
+ background-color: rebeccapurple;
+ text-align: center;
+ font-size: 32px; 
+ margin-right: -75%;
+ border: black solid 5px;
+}
+#producttable {
+    border: black 5px solid;
+    width: 175%;
+    height: 100%;
+    border-collapse: collapse;
+    margin-right: -25%;
+    color: black;
+    background-color: rebeccapurple;
+    text-align: center;
+    padding-bottom: 10%;  
+}
+table {
+    border: black 5px solid;
+    width: 175%;
+    height: 100%;
+    border-collapse: collapse;
+    margin: auto;
+    color: black;
+    background-color: rebeccapurple;
+    text-align: center;
+    margin-bottom: 20%;
+    padding-bottom: 10%;  
+}
+caption {
+    font-size: 24px;
+    font-weight: solid;
+}
+th,tr {
+    border: solid 1px black;
+}
+#contactinfo {
+
+  margin: auto;
+  color: black;
+  padding-top: 25px;
+}
+#socialmedia {
+  color: black;
+  margin: auto;
+}
+form {
+    color: black;
+    text-align: left;
+    font-size: 25px; 
+}
+h3 {
+   color: black; 
+}
+#aboutpara {
+    text-align: left;
+    font-size: 24px;
+}
+#aboutphotol {
+    text-align: center;
+    padding-top: 15%;
+}
+#aboutphotor {
+    text-align: center;
+    padding-top: 15%;
+}
